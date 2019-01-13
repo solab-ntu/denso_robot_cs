@@ -1,0 +1,40 @@
+C:\Users\simp6\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\simp6\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\simp6\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\simp6\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojResolveAssemblyReference.cache
+C:\Users\simp6\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\simp6\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\simp6\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.Cache
+C:\Users\simp6\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\simp6\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\simp6\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\simp6\Desktop\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\simp6\Desktop\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\simp6\Desktop\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\simp6\Desktop\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojResolveAssemblyReference.cache
+C:\Users\simp6\Desktop\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\simp6\Desktop\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\simp6\Desktop\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.Cache
+C:\Users\simp6\Desktop\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\simp6\Desktop\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\simp6\Desktop\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+G:\My Drive\NTU drive\SOLab\Calibration\DensoRobot\cs\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+G:\My Drive\NTU drive\SOLab\Calibration\DensoRobot\cs\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+G:\My Drive\NTU drive\SOLab\Calibration\DensoRobot\cs\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+G:\My Drive\NTU drive\SOLab\Calibration\DensoRobot\cs\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojAssemblyReference.cache
+G:\My Drive\NTU drive\SOLab\Calibration\DensoRobot\cs\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+G:\My Drive\NTU drive\SOLab\Calibration\DensoRobot\cs\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+G:\My Drive\NTU drive\SOLab\Calibration\DensoRobot\cs\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+G:\My Drive\NTU drive\SOLab\Calibration\DensoRobot\cs\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+G:\My Drive\NTU drive\SOLab\Calibration\DensoRobot\cs\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+G:\My Drive\NTU drive\SOLab\Calibration\DensoRobot\cs\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\Poyu Chen\Desktop\cs\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\Poyu Chen\Desktop\cs\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\Poyu Chen\Desktop\cs\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\Poyu Chen\Desktop\cs\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojAssemblyReference.cache
+C:\Users\Poyu Chen\Desktop\cs\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\Poyu Chen\Desktop\cs\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\Poyu Chen\Desktop\cs\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\Poyu Chen\Desktop\cs\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\Poyu Chen\Desktop\cs\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\Poyu Chen\Desktop\cs\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
